@@ -5,8 +5,7 @@
 ・The discretization accuracy in time and space is first-order accuracy.
 
 ## demo
-・VOF  
-![](movie/u.mp4)  
+![](/movie/u.mp4)  
 
 ## Author
 naka
